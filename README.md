@@ -1,6 +1,6 @@
 # Cut-The-Rope-Replica
  
-This is a Cut the Rope game created by Unity3d.
+This is a Cut the Rope Replica game created by Unity3d.
 
 Following Brackeys Channel, I have created this project which is similar to the original Cut the Rope game.
 
