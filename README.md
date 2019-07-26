@@ -6,6 +6,6 @@ Following Brackeys Channel, I have created this project which is similar to the 
 
 I have also uploaded a Demo Video to Youtube Link.
 
-Unity Version : 2018.3.8f1
+Unity Version : 5.5.4p4
 
-Youtube Demo Link : https://hamstersophia.itch.io/dodge-the-block-replica
+Youtube Demo Link : https://www.youtube.com/watch?v=Gv6xUUoFPjA
